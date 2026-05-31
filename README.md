@@ -1,2 +1,2 @@
 # Mapa_De_Carreira
-MapaDeCarreira
+Mapa de carreira criado para planejar, organizar e acompanhar minha evolução profissional na área de tecnologia.
